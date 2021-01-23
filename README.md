@@ -6,4 +6,4 @@
   - LinkedIn: Pangestu Galih Pambayun
   - Instagram, Twitter & others: galihhhp
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=galihhhp)](https://github.com/anuraghazra/github-readme-stats)
+  [![galihhhp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=galihhhp)](https://github.com/anuraghazra/github-readme-stats)
