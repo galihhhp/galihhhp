@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently attending bootcamp on Binar Academy
-- 🌱 I’m currently learning Full Stack Javascript and Basic Devops
+- 🌱 I’m Front End Web Developer
 - 📫 How to reach me: 
   - LinkedIn: Pangestu Galih Pambayun
   - Instagram, Twitter & others: galihhhp
