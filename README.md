@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m Front End Web Developer
+- 🌱 I’m Frontend Web Developer
 - 📫 How to reach me: 
   - LinkedIn: Pangestu Galih Pambayun
   - Instagram, Twitter & others: galihhhp
